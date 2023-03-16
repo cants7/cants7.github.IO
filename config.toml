@@ -1,6 +1,6 @@
-title = "Eddie Webb"
+title = "易心雕龙·易经预测分析系统"
 baseURL = "https://yxdl.top/"
-theme = "hugo-resume"
+theme = "hugo-123"
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
@@ -9,7 +9,7 @@ enableGitInfo = false
 
 [params]
 address = "Rollinsford, NH"
-email = "email@domain.com"
+email = "email@yxdl.top"
 favicon = "/favicon.ico"
 firstName = "Eddie"
 lastName = "Webb"
