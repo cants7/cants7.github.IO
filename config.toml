@@ -1,7 +1,7 @@
 title = "1易心雕龙·易经预测分析系统"
 baseURL = "https://yxdl.top/"
 theme = "hugo-resume"
-languageCode = "en-us"
+languageCode = "zh-cn"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
