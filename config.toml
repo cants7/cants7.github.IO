@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "湖北·荆州”
+address = "湖北·荆州"
 email = "email@yxdl.top"
 favicon = "/favicon.ico"
 firstName = "易心雕龙"
