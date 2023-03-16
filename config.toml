@@ -15,11 +15,11 @@ firstName = "易"
 lastName = "心雕龙"
 phone = "QQ:2625956040"
 profileImage = "img/TechChat.png"
-showEducation = false
+showEducation = true
 showExperience = false
 showOpenSource = false
 showProjects = false
-showPublications = true
+showPublications = false
 showQr = true
 showSkills = true
 
