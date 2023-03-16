@@ -8,11 +8,11 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Rollinsford, NH"
+address = "湖北·荆州
 email = "email@yxdl.top"
 favicon = "/favicon.ico"
-firstName = "Eddie"
-lastName = "Webb"
+firstName = "易心雕龙"
+lastName = "易经预测分析系统"
 phone = "1-555-555-1234"
 profileImage = "img/TechChat.png"
 showEducation = true
