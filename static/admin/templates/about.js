@@ -12,7 +12,7 @@ var AboutPreview = createClass({
   render: function() {
     var entry = this.props.entry;
     var intro = entry.getIn(['data', 'intro']);
-    var about = entry.getIn(['data', 'about1']);
+    var about = entry.getIn(['data', 'about']);
     var classes = entry.getIn(['data', 'classes']);
     var contact = entry.getIn(['data', 'contact']);
     var bg = this.props.widgetsFor('intro').getIn(['widgets', 'background']).props.value;
