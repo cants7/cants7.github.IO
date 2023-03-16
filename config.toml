@@ -1,4 +1,4 @@
-title = "123Eddie Webb"
+title = "易心雕龙·易经预测分析系统"
 baseURL = "https://btop.top/"
 theme = "hugo-resume"
 languageCode = "en-us"
@@ -9,7 +9,7 @@ enableGitInfo = false
 
 [params]
 address = "Rollinsford, NH"
-email = "email@domain.com"
+email = "email@yxdl.top"
 favicon = "/favicon.ico"
 firstName = "Eddie"
 lastName = "Webb"
